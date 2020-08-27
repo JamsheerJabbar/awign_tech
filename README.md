@@ -1,2 +1,1 @@
-# nlp-projects
-topic modelling/multi-doc summarization
+SQL assignment
